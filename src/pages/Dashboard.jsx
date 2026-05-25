@@ -241,7 +241,7 @@ function DashboardPage() {
             { month: 'Fev', val: 'R$950', pxHeight: '76px' },
             { month: 'Mar', val: 'R$1300', pxHeight: '104px' },
             { month: 'Abr', val: 'R$1150', pxHeight: '92px' },
-            { month: 'Mai', val: 'R$1375', pxHeight: '110px' },
+            { month: 'Mai', val: 'R$1642,50', pxHeight: '131px' },
           ].map((bar, i) => (
             <div
               key={i}
