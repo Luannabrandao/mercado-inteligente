@@ -1,0 +1,35 @@
+[
+  {
+    "id": "inv_001",
+    "name": "Maçã Gala",
+    "category": "Frutas e Vegetais",
+    "quantity": 6,
+    "unit": "unidades",
+    "purchaseDate": "2026-05-18",
+    "expirationDate": "2026-05-24",
+    "daysLeft": 2,
+    "status": "attention"
+  },
+  {
+    "id": "inv_002",
+    "name": "Leite Integral",
+    "category": "Laticínios",
+    "quantity": 1,
+    "unit": "litro",
+    "purchaseDate": "2026-05-20",
+    "expirationDate": "2026-05-27",
+    "daysLeft": 5,
+    "status": "normal"
+  },
+  {
+    "id": "inv_003",
+    "name": "Iogurte Natural",
+    "category": "Laticínios",
+    "quantity": 2,
+    "unit": "unidades",
+    "purchaseDate": "2026-05-22",
+    "expirationDate": "2026-05-23",
+    "daysLeft": 1,
+    "status": "attention"
+  }
+]

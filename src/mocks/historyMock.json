@@ -1,0 +1,114 @@
+[
+  {
+    "id": "h1",
+    "name": "Berinjela",
+    "category": "Frutas e Vegetais",
+    "status": "Spoiled",
+    "cost": 4.5,
+    "month": "Abril"
+  },
+  {
+    "id": "h2",
+    "name": "Berinjela",
+    "category": "Frutas e Vegetais",
+    "status": "Spoiled",
+    "cost": 3.0,
+    "month": "Maio"
+  },
+  {
+    "id": "h3",
+    "name": "Berinjela",
+    "category": "Frutas e Vegetais",
+    "status": "Spoiled",
+    "cost": 3.0,
+    "month": "Maio"
+  },
+  {
+    "id": "h4",
+    "name": "Maçã Gala",
+    "category": "Frutas e Vegetais",
+    "status": "Consumed",
+    "cost": 5.2,
+    "month": "Maio"
+  },
+  {
+    "id": "h5",
+    "name": "Maçã Gala",
+    "category": "Frutas e Vegetais",
+    "status": "Consumed",
+    "cost": 5.2,
+    "month": "Maio"
+  },
+  {
+    "id": "h6",
+    "name": "Leite Integral",
+    "category": "Laticínios",
+    "status": "Consumed",
+    "cost": 4.8,
+    "month": "Maio"
+  },
+  {
+    "id": "h7",
+    "name": "Leite Integral",
+    "category": "Laticínios",
+    "status": "Consumed",
+    "cost": 4.8,
+    "month": "Abril"
+  },
+  {
+    "id": "h8",
+    "name": "Leite Integral",
+    "category": "Laticínios",
+    "status": "Consumed",
+    "cost": 4.8,
+    "month": "Abril"
+  },
+  {
+    "id": "h9",
+    "name": "Pão de Forma",
+    "category": "Panificação",
+    "status": "Consumed",
+    "cost": 7.5,
+    "month": "Maio"
+  },
+  {
+    "id": "h10",
+    "name": "Pão de Forma",
+    "category": "Panificação",
+    "status": "Consumed",
+    "cost": 7.5,
+    "month": "Abril"
+  },
+  {
+    "id": "h11",
+    "name": "Iogurte Natural",
+    "category": "Laticínios",
+    "status": "Consumed",
+    "cost": 3.2,
+    "month": "Maio"
+  },
+  {
+    "id": "h12",
+    "name": "Iogurte Natural",
+    "category": "Laticínios",
+    "status": "Consumed",
+    "cost": 3.2,
+    "month": "Abril"
+  },
+  {
+    "id": "h13",
+    "name": "Banana",
+    "category": "Frutas e Vegetais",
+    "status": "Consumed",
+    "cost": 4.0,
+    "month": "Maio"
+  },
+  {
+    "id": "h14",
+    "name": "Ovos",
+    "category": "Mercearia",
+    "status": "Consumed",
+    "cost": 12.0,
+    "month": "Maio"
+  }
+]
