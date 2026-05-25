@@ -114,18 +114,18 @@ function DashboardPage() {
           <span
             style={{
               fontSize: '11px',
-              color: '#22c55e',
-              backgroundColor: '#f0fdf4',
+              color: '#a71204',
+              backgroundColor: '#f8c9c9',
               padding: '2px 6px',
               borderRadius: '6px',
               width: 'fit-content',
               fontWeight: '500',
             }}
           >
-            -12% em relação ao mês passado
+            +19,5% em relação ao mês passado
           </span>
         </div>
-        <div style={{ ...miniCardStyle, backgroundColor: '#f0f9ff' }}>
+        <div style={{ ...miniCardStyle, backgroundColor: '#f4f9fb' }}>
           <span
             style={{ fontSize: '11px', color: '#0369a1', fontWeight: 'bold' }}
           >

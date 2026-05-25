@@ -118,20 +118,6 @@ function App() {
               ➕ Lançar Nota/Compra
             </NavLink>
           </nav>
-
-          <div
-            style={{
-              fontSize: '12px',
-              color: '#9a3412',
-              borderTop: '1px solid #fed7aa',
-              paddingTop: '20px',
-              width: '100%',
-              textAlign: 'center',
-              marginTop: '20px',
-            }}
-          >
-            v1.2.0 • Edição Soft UI Pastel
-          </div>
         </aside>
 
         <main

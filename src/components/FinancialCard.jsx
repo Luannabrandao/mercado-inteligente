@@ -47,14 +47,14 @@ function FinancialCard() {
           <span
             style={{
               fontSize: '13px',
-              color: '#16a34a',
-              backgroundColor: '#dcfce7',
+              color: '#a71204',
+              backgroundColor: '#f8c9c9',
               padding: '2px 8px',
               borderRadius: '8px',
               fontWeight: 'bold',
             }}
           >
-            -12%
+            +19,5%
           </span>
           <span style={{ fontSize: '12px', color: '#64748b' }}>
             em relação ao mês passado
